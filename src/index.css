@@ -1,0 +1,17 @@
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+  outline: none;
+}
+
+body {
+  background-color: rgb(9, 7, 18);
+  font-family: 'Nabla', system-ui;
+}
+
+h3 {
+  font-size: 4rem;
+  color: #fff;
+}
